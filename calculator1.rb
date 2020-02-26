@@ -1,12 +1,5 @@
-one = 1;
-two = 2;
-three = 3;
-four = 4;
-five = 5;
-six = 6;
-seven = 7;
-eight = 8;
-nine = 9;
-zero = 0;
-// Above: all integers used to calculate problems
-input = gets
+# addition
+input1 = gets
+input2 = gets
+input1 + input2 = input3
+puts "your answer is" input3
